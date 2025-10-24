@@ -47,6 +47,4 @@ El encoder permite ajustar parámetros de forma precisa y cómoda.
 ## 🚀 Futuras mejoras
 
 - Implementar diferentes modos de iluminación (color fijo, fade, animaciones).  
-- Añadir control de temperatura de color.  
-- Sincronizar varios módulos por comunicación serie o inalámbrica.
 
